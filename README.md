@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Ruturaj9901/Leetcode/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ruturaj9901/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
