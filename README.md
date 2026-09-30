@@ -11,6 +11,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ruturaj9901/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ruturaj9901/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Ruturaj9901/Leetcode/tree/master/0344-reverse-string) |
 ## Binary Search
@@ -27,9 +28,18 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ruturaj9901/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Ruturaj9901/Leetcode/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ruturaj9901/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ruturaj9901/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ruturaj9901/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
