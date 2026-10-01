@@ -33,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ruturaj9901/Leetcode/tree/master/0007-reverse-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ruturaj9901/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Dynamic Programming
 |  |
