@@ -15,6 +15,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ruturaj9901/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ruturaj9901/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Ruturaj9901/Leetcode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Ruturaj9901/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,4 +50,5 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ruturaj9901/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ruturaj9901/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Ruturaj9901/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
