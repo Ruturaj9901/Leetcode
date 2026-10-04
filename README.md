@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ruturaj9901/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ruturaj9901/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ruturaj9901/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1480-running-sum-of-1d-array](https://github.com/Ruturaj9901/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ruturaj9901/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ruturaj9901/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Ruturaj9901/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
