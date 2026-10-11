@@ -45,6 +45,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Ruturaj9901/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Ruturaj9901/Leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Ruturaj9901/Leetcode/tree/master/0231-power-of-two) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ruturaj9901/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Dynamic Programming
 |  |
@@ -92,10 +93,15 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ruturaj9901/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Ruturaj9901/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ruturaj9901/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Ruturaj9901/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ruturaj9901/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ruturaj9901/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ruturaj9901/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
