@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ruturaj9901/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ruturaj9901/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ruturaj9901/Leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruturaj9901/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ruturaj9901/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1480-running-sum-of-1d-array](https://github.com/Ruturaj9901/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ruturaj9901/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruturaj9901/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
 | ------- |
