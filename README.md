@@ -52,6 +52,7 @@
 | [0066-plus-one](https://github.com/Ruturaj9901/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Ruturaj9901/Leetcode/tree/master/0231-power-of-two) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ruturaj9901/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2235-add-two-integers](https://github.com/Ruturaj9901/Leetcode/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
