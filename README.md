@@ -43,12 +43,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ruturaj9901/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Ruturaj9901/Leetcode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Ruturaj9901/Leetcode/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ruturaj9901/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ruturaj9901/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Ruturaj9901/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ruturaj9901/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Ruturaj9901/Leetcode/tree/master/0231-power-of-two) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ruturaj9901/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -84,6 +86,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Ruturaj9901/Leetcode/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ruturaj9901/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ruturaj9901/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ruturaj9901/Leetcode/tree/master/0142-linked-list-cycle-ii) |
