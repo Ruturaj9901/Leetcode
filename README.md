@@ -24,6 +24,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Ruturaj9901/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ruturaj9901/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ruturaj9901/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Ruturaj9901/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ruturaj9901/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Ruturaj9901/Leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ruturaj9901/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -55,6 +56,7 @@
 | [0013-roman-to-integer](https://github.com/Ruturaj9901/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Ruturaj9901/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Ruturaj9901/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Ruturaj9901/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ruturaj9901/Leetcode/tree/master/0231-power-of-two) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ruturaj9901/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/Ruturaj9901/Leetcode/tree/master/2235-add-two-integers) |
@@ -95,11 +97,13 @@
 | [0141-linked-list-cycle](https://github.com/Ruturaj9901/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ruturaj9901/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ruturaj9901/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Ruturaj9901/Leetcode/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ruturaj9901/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ruturaj9901/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Ruturaj9901/Leetcode/tree/master/0202-happy-number) |
 ## Prefix Sum
 |  |
 | ------- |
