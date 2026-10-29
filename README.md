@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ruturaj9901/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ruturaj9901/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ruturaj9901/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Ruturaj9901/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ruturaj9901/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ruturaj9901/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1480-running-sum-of-1d-array](https://github.com/Ruturaj9901/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -20,6 +21,7 @@
 | [0027-remove-element](https://github.com/Ruturaj9901/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ruturaj9901/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Ruturaj9901/Leetcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Ruturaj9901/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ruturaj9901/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ruturaj9901/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ruturaj9901/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -160,4 +162,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ruturaj9901/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Ruturaj9901/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
