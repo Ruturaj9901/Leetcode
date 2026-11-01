@@ -66,6 +66,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Ruturaj9901/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Ruturaj9901/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ruturaj9901/Leetcode/tree/master/0231-power-of-two) |
+| [0365-water-and-jug-problem](https://github.com/Ruturaj9901/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ruturaj9901/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/Ruturaj9901/Leetcode/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ruturaj9901/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0365-water-and-jug-problem](https://github.com/Ruturaj9901/Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -193,4 +195,24 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ruturaj9901/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Ruturaj9901/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Ruturaj9901/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Ruturaj9901/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Ruturaj9901/Leetcode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Ruturaj9901/Leetcode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
